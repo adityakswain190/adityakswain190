@@ -6,9 +6,9 @@
 
 ###
 
-<h2 align="left">About me
-Hi! I'm a curious and motivated individual who enjoys learning new things and taking on challenges. I have a strong interest in technology, problem-solving, and continuous self-improvement. Whether working independently or as part of a team, I strive to do my best and keep growing both personally and professionally.
-</h2>
+<h2 align="left">About me<br><h2>
+<p>Hi! I'm a curious and motivated individual who enjoys learning new things and taking on challenges. I have a strong interest in technology, problem-solving, and continuous self-improvement. Whether working independently or as part of a team, I strive to do my best and keep growing both personally and professionally.
+</p>
 
 ###
 
