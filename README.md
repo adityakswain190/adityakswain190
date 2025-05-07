@@ -12,7 +12,9 @@ Hi! I'm a curious and motivated individual who enjoys learning new things and ta
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Typescript<br>🎯 Goals: 📘 Working on improving my coding skills through personal projects<br>🎲 Fun fact: 🌍 I enjoy exploring how technology impacts the world around us
+
+</p>
 
 ###
 
