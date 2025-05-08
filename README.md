@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Aditya Swain and I'm a Final Year Student, from Loyola College</p>
+<p align="left">My name is Aditya K Swain and I'm a Final Year Student, from Loyola College</p>
 
 ###
 
